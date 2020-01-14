@@ -13,6 +13,7 @@ The project was done in 60-607A Algorithms for Optimization and Big Data Analysi
 ## Performance
 
 •	Slower than sklearn to predict 1 million new observations
+
 •	Better performance on the Iris dataset
 
 
