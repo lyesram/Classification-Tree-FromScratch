@@ -4,7 +4,7 @@ This project was done in 60-607A Algorithms for Optimization and Big Data Analys
 ## Main functions
 1) meilleur_split : Find the best split of a feature
 2) construction_arbre : Build the tree with a binary heap structure.
-3) predict: Prediction of new observations
+3) prediction: Prediction of new observations
 
 ## Hyperparameters
 
